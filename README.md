@@ -1,4 +1,4 @@
-<h2 align="left">Yo I am Ian lets work together!🤝</h2>
+<h2 align="left">Yo I am Ian, let's work together!🤝</h2>
 
 ###
 
@@ -49,3 +49,7 @@
 </div>
 
 ###
+
+<div align="center">
+  <img src="https://github.com/your-username/your-username/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</div>
