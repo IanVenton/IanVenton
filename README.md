@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Ian, and I'm a developer from ...</h2>
+<h2 align="left">Hi 👋! My name is Ian, and I'm a developer from New York. I am currently finishing my BA in Computer Science! ...</h2>
 
 ###
 
@@ -9,8 +9,9 @@
 
 ###
 
-<img src="https://tenor.com/view/aipom-pokemon-gif-26804239" alt="Aipom GIF" width="300" />
-
+<div align="center">
+  <img src="https://media.tenor.com/xR73LgHqh0YAAAAC/aipom-pokemon.gif" alt="Aipom GIF" width="300" />
+</div>
 
 ###
 
