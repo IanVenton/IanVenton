@@ -9,7 +9,8 @@
 
 ###
 
-![Aipom GIF](https://tenor.com/view/aipom-pokemon-gif-26804239)
+<img src="https://tenor.com/view/aipom-pokemon-gif-26804239" alt="Aipom GIF" width="300" />
+
 
 ###
 
